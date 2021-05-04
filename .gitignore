@@ -1,4 +1,5 @@
 *.png
+*.jpeg
 .DS_store
 change_image_to_aa
 converter
